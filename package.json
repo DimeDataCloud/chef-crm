@@ -1,0 +1,13 @@
+{
+  "name": "chef-crm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Meal-prep subscription and venue-event catering CRM for independent chefs.",
+  "license": "MIT",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server/index.js"
+  },
+  "engines": { "node": ">=22" }
+}
