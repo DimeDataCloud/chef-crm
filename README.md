@@ -1,3 +1,5 @@
+Reference build. The maintained, documented version of this product is [catering-crm](https://github.com/DimeDataCloud/catering-crm).
+
 # chef-crm
 
 A meal-prep subscription and private-event catering CRM for independent chefs. Runs as a single Node.js process with no runtime dependencies.
